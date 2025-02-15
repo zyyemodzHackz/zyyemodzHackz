@@ -1,6 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "TESTING",
+  "Title": "IDEWOW",
   "Description": "KISSBABY",
   "MainTextButton": "UPDATE",
   "Cancelable": "false",
