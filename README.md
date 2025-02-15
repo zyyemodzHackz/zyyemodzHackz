@@ -5,6 +5,6 @@
   "MainTextButton": "UPDATE",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
-  "Version": "1.1"
+  "DownloadLink": "https://t.me/ZYTOOLS",
+  "Version": "1.8"
 }
