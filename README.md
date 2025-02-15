@@ -5,6 +5,6 @@
   "MainTextButton": "BUY",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "t.me/ImOnlyOneZyyeModz",
+  "DownloadLink": "https://t.me/ImOnlyOneZyyeModz",
   "Version": "1.8"
 }
