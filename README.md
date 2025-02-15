@@ -2,9 +2,9 @@
   "Visibility": "VISIBLE",
   "Title": "UPDATE 129",
   "Description": "KISSBABY",
-  "MainTextButton": "UPDATE",
+  "MainTextButton": "BUY",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://t.me/ZYTOOLS",
+  "DownloadLink": "t.me/ImOnlyOneZyyeModz",
   "Version": "1.8"
 }
