@@ -1,5 +1,6 @@
 {
   "Visibility": "VISIBLE",
+  "Expiration": "02.16.2025",
   "Title": "UPDATE 1.8",
   "Description": "KISSBABY",
   "MainTextButton": "UPDATE",
