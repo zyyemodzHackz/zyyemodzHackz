@@ -1,6 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "IDEWoW",
+  "Title": "UPDATE 1.8",
   "Description": "KISSBABY",
   "MainTextButton": "UPDATE",
   "Cancelable": "false",
