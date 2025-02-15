@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "UPDATE 129",
-  "Description": "KISSBABY",
+  "Description": "COLYN BAHO",
   "MainTextButton": "BUY",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
