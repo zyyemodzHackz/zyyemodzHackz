@@ -6,5 +6,5 @@
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/ImOnlyOneZyyeModz",
-  "Version": "1.8"
+  "Version": "1.999"
 }
